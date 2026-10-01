@@ -1,12 +1,12 @@
-# 2026 CS 4379K / CS 5342 Introduction to Autonomous Robotics, Robotics and Autonomous Systems
+# 2026 Fall CS7389K Advanced Robotics and Autonomous Systems
 
 ## Programming Assignment: Milestone 1 (V1.15)
 
-**Authors:** Minhyuk Park and Tsz-Chiu Au
+**Authors:** Minhyuk Park and Tsz-Chiu Au (Some very minor edits by MD Sameer Iqbal Chowdhury)
 
 ## Introduction
 
-Welcome to CS 4379K / CS 5342. We prepared a series of programming assignments to teach you how to program a mobile manipulator to perform a task. Each assignment is a milestone towards programming a robot to perform the task. In the first milestone, we intend to give you an idea of how to interact with ROBOTIS’ Turtlebot3 Waffle Pi with a Manipulator Arm using the Robot Operating System 2 (ROS2).
+Welcome to CS7389K. We prepared a series of programming assignments to teach you how to program a mobile manipulator to perform a task. Each assignment is a milestone towards programming a robot to perform the task. In the first milestone, we intend to give you an idea of how to interact with ROBOTIS’ Turtlebot3 Waffle Pi with a Manipulator Arm using the Robot Operating System 2 (ROS2).
 
 The first milestone is about simulating the mobile base (Turtlebot 3 Waffle Pi) in Gazebo, and running teleoperation, SLAM, and Navigation nodes. This verifies you have a working remote PC setup for simulating turtlebot3, as well as controlling the physical robot in future milestone assignments. This environment should also allow you to explore communication interfaces in ROS2 that will be useful in future milestones assignments. 
 
