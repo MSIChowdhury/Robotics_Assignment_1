@@ -86,7 +86,7 @@ For the **provided laptop**, all the programs you need are preinstalled. However
 mkdir -p ~/turtlebot_docker
 cd ~/turtlebot_docker
 mkdir -p my_code
-git clone https://github.com/dmz44/Robotics_Assignment_1.git
+git clone https://github.com/MSIChowdhury/Robotics_Assignment_1.git
 cp Robotics_Assignment_1/Dockerfile Dockerfile
 cp Robotics_Assignment_1/docker-compose.yml docker-compose.yml
 ```
@@ -697,7 +697,7 @@ sudo systemctl restart docker
 mkdir -p ~/turtlebot_docker
 cd ~/turtlebot_docker
 mkdir -p my_code
-git clone https://github.com/dmz44/Robotics_Assignment_1.git
+git clone https://github.com/MSIChowdhury/Robotics_Assignment_1.git
 cp Robotics_Assignment_1/Dockerfile Dockerfile
 cp Robotics_Assignment_1/docker-compose.yml docker-compose.yml
 ```
