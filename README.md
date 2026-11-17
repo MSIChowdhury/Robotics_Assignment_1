@@ -29,6 +29,8 @@ For all questions regarding milestone assignments and the robot, **you should co
 
 ### Environment Setup Requirement
 
+In this course, the **Remote PC** is the laptop that has been provided to you. Every instruction that is marked **[Remote PC]** is performed on this laptop.
+
 For this and future milestone assignments, you need an **x86 PC** to run the software necessary to run the simulation and to control a physical Turtlebot 3 robot. You can either use your own computer or offically supported **provided laptop in the robot room** to complete the assignment requirement. If you are interested in setting up the "Remote-PC" environment using your own laptop, you can look into the appendix of the assignment. The hardware requirement for "Remote-PC" is an X86 PC compatible with Ubuntu 24.04 LTS with Nvidia Graphics. You would also need a speaker and a microphone for milestone assignment 5 onwards. 
 
 ### Assignment Requirement
@@ -63,7 +65,7 @@ You do not need to edit the videos, and uploading **raw footage** will suffice. 
 
 # Part 1 - Environment Setup
 
-We need you to prepare a **Ubuntu 22.04 Docker** environment for the course milestones and the final project. From now onwards, it will be called ‘Remote PC’. It will provide you with a simulated environment for the robot, the necessary Artificial Intelligence software, and the necessary visualization tools you need to interface with both the simulated and the physical robot. We highly recommend that you use the provided laptop. Nevertheless, you should be able to deploy this Docker container on your own computer, provided you have the necessary hardware, such as an Nvidia GPU. Please refer to the appendix for instructions on how to setup 'Remote PC' environment on your computer. 
+We need you to prepare a **Ubuntu 22.04 Docker** environment for the course milestones and the final project. From now onwards, it will be called ‘Remote PC’, and the **Remote PC** is the laptop that has been provided to you. It will provide you with a simulated environment for the robot, the necessary Artificial Intelligence software, and the necessary visualization tools you need to interface with both the simulated and the physical robot. We highly recommend that you use the provided laptop. Nevertheless, you should be able to deploy this Docker container on your own computer, provided you have the necessary hardware, such as an Nvidia GPU. Please refer to the appendix for instructions on how to setup 'Remote PC' environment on your computer. 
 
 The following instructions for environment setup are of our own, based on a manual provided by the manufacturer, Robotis. Please select Humble on the website.
 **(Original URL)**
